@@ -1,0 +1,8 @@
+{
+  "plugins" : [
+    {
+    "name" : "Godot Tools",
+    "link" : "https://github.com/BielyDev/godot-tools-gridex"
+    }
+  ]
+}
