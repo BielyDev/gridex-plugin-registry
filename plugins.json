@@ -4,5 +4,9 @@
     "name" : "Godot Tools",
     "link" : "https://github.com/BielyDev/godot-tools-gridex"
     }
+    {
+    "name" : "Plugin Template",
+    "link" : "https://github.com/BielyDev/gridex-plugin-template"
+    }
   ]
 }
