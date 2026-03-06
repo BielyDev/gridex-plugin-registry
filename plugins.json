@@ -1,12 +1,18 @@
 {
   "plugins" : [
     {
-    "name" : "Godot Tools",
-    "link" : "https://github.com/BielyDev/godot-tools-gridex"
-    },
+      "id" : "godot_tools",
+      "type" : 0,
+      "repository" : "https://github.com/BielyDev/godot-tools-gridex",
+      "version" : "1.0.0",
+      "gridex_version" : "0.6.0",
+    },  
     {
-    "name" : "Plugin Template",
-    "link" : "https://github.com/BielyDev/gridex-plugin-template"
+      "id" : "plugin_template",
+      "type" : 0,
+      "repository" : "https://github.com/BielyDev/gridex-plugin-template",
+      "version" : "1.0.0",
+      "gridex_version" : "0.6.0",
     }
   ]
 }
